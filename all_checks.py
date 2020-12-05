@@ -5,7 +5,7 @@ def main():
     if chec_reboot():
     	print("pending reboot")
     	sys.exit(1)
-    else: 
+    else:
     	print("everything okay")
     	sys.exit(0)
 
