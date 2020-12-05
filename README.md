@@ -1,6 +1,6 @@
 # testRepo
 For learning purpose
 
-Hey fellow programmer,
+Hello! fellow programmer,
 Agenda of this repo is:
 Learning git commands for github.
